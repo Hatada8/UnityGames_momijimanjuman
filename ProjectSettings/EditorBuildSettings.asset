@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 3f7bd0305aeb5774c90508ad323d2ee1
+  - enabled: 1
+    path: Assets/Scenes/Mura.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 09183776743745b44a974ce6fdec32f3
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 73848c1cfa729d643af8c04b1ade1437
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 4467a33610f3e3d479144c89c2173321
+  - enabled: 1
+    path: Assets/Scenes/Basement.unity
+    guid: 04310ef5501dadf4e99bf13466a8391e
+  - enabled: 1
+    path: Assets/Scenes/Room3.unity
+    guid: ef7b0dc61ae98a749aa292b409c1e9c9
+  - enabled: 1
+    path: Assets/Scenes/Sea.unity
+    guid: a56d3bc5cfa74ae41b3924fcb62d0e01
+  - enabled: 1
+    path: Assets/Scenes/Mura2.unity
+    guid: 894610a0e1239b24497657c22295c2f5
+  - enabled: 1
+    path: Assets/Scenes/Room5.unity
+    guid: 93124a38173c2214d8b68598b6f920d8
+  - enabled: 1
+    path: Assets/Scenes/Room6.unity
+    guid: bf0e779b50479d748aeaa1c28f63b937
+  - enabled: 1
+    path: Assets/Scenes/Room4.unity
+    guid: e073850719cbbfd4dad68b4ab4c8686b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: d1277306d365c974489a1293db266872
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: d980c0aaf470ae4489cceb9c4e1456b8
+  m_configObjects: {}
